@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/AD/ad-concepts.md",
+                "file": "@personal/interview-questions-and-asks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ad-concepts"
+              "title": "interview-questions-and-asks"
             }
           }
         ]
@@ -186,21 +186,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "380cb996c34da7c8",
+  "active": "e37ccac726fab0c9",
   "lastOpenFiles": [
+    "@personal",
+    "windows/AD/ad-concepts.md",
     "attachments/Pasted image 20260906175010.png",
     "attachments/Pasted image 20260907141857.png",
     "attachments/Pasted image 20260907171143.png",
     "attachments/Pasted image 20260907171119.png",
     "attachments/Pasted image 20260907171152.png",
-    "windows/AD/ad-concepts.md",
     "Untitled.base",
     "windows/AD/ntlm.md",
     "windows/AD/llmnr-poisoning.md",
     "attachments/Pasted image 20260906132217.png",
     "attachments/Pasted image 20260906152718.png",
     "attachments",
-    "interview-questions-and-asks.md",
+    "@personal/interview-questions-and-asks.md",
     "web/postmessage.md",
     "web/web-cache-bugs.md",
     "web/beyond-xss.md",
@@ -220,7 +221,6 @@
     "devsecops.md",
     "crypto/xor.md",
     "crypto/gcd.md",
-    "Untitled",
     "devops_&_devsecops/Untitled.md",
     "devops_&_devsecops/devops_&_devsecops.md",
     "devops_&_devsecops/devsecops.md",
