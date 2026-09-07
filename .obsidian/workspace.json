@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "8dc77e09248d4d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fbf5cb9b61d2907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "380cb996c34da7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "windows/AD/ad-concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ad-concepts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22acbb56f1905acc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2145827c92dac4b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e37ccac726fab0c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9602916f58b43a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f9a286732ee11d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.15625
+  },
+  "right": {
+    "id": "447444075574f5df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b79b89654823fd9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a51e92ee30327e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "web/web-cache-bugs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "faf2d7db67947ebd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9cfb785b0c4273aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5bf35fa8abd61e80",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a562f37882da3c33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "380cb996c34da7c8",
+  "lastOpenFiles": [
+    "attachments/Pasted image 20260906175010.png",
+    "attachments/Pasted image 20260907141857.png",
+    "attachments/Pasted image 20260907171143.png",
+    "attachments/Pasted image 20260907171119.png",
+    "attachments/Pasted image 20260907171152.png",
+    "windows/AD/ad-concepts.md",
+    "Untitled.base",
+    "windows/AD/ntlm.md",
+    "windows/AD/llmnr-poisoning.md",
+    "attachments/Pasted image 20260906132217.png",
+    "attachments/Pasted image 20260906152718.png",
+    "attachments",
+    "interview-questions-and-asks.md",
+    "web/postmessage.md",
+    "web/web-cache-bugs.md",
+    "web/beyond-xss.md",
+    "web/sop.md",
+    "web/csrf.md",
+    "web/cors.md",
+    "crypto/base.md",
+    "programming/assembly/assembly.md",
+    "test",
+    "untitled folder",
+    "windows/AD",
+    "windows",
+    "windowsa/AD/ntlm.md",
+    "windowsa/AD",
+    "windowsa",
+    "README.md",
+    "devsecops.md",
+    "crypto/xor.md",
+    "crypto/gcd.md",
+    "Untitled",
+    "devops_&_devsecops/Untitled.md",
+    "devops_&_devsecops/devops_&_devsecops.md",
+    "devops_&_devsecops/devsecops.md",
+    "devops_&_devsecops"
+  ]
+}

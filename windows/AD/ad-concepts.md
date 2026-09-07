@@ -8,7 +8,7 @@
 ## LLMNR poisoning
 #### what is LLMNR?
 Link-Local Multicast Name Resolution (LLMNR) is used to identify and resolve hosts and hostnames when DNS fails to do so.
-![[Pasted image 20260906175010.png]]
+![](../../attachments/Pasted%20image%2020260907171119.png)
 - previously, **NBT-NS (NetBIOS over TCP/IP Name Service)** is being used.
 - key flaw is that the services utilise user's username and NTLMv2 password hash when appropriately responded to.
 - to capture username and NTLMv2 hash, we will use "Responder" tool. this is the first thing that should be running in the background in the pentest engagement.
@@ -18,7 +18,7 @@ Link-Local Multicast Name Resolution (LLMNR) is used to identify and resolve hos
 	- require Network Access Control
 	- require strong user passwords.
 
-![[Pasted image 20260907141857.png]]
+![](../../attachments/Pasted%20image%2020260907171152.png)
 
 ## NTLM relay attack
 NTLM (New-Technology LAN Manager) 
